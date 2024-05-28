@@ -30,12 +30,36 @@ Cách cài đặt và sử dụng Postman
 
 2. Kiểm thử API cơ bản:
 Gửi các yêu cầu HTTP (GET, POST, PUT, DELETE) đến API.
-    Yêu cầu GET:
+    Yêu cầu GET: (Kết quả thành công)
     ![alt text](image.png)
 
-    Yêu cầu PUT:
-    
-Kiểm tra mã trạng thái HTTP và nội dung phản hồi.
-Sử dụng các biến và bộ sưu tập dữ liệu trong Postman.
-Xác minh tính hợp lệ của JSON.
+    Yêu cầu POST: (Kết quả thành công)
+    ![alt text](image-3.png)
+
+    Yêu cầu PUT: (Kết quả thành công)
+    ![alt text](image-2.png)
+
+    Yêu cầu DELETE: (Kết quả thành công)
+    ![alt text](image-1.png)
+
+Sử dụng các biến để lưu trữ và truy cập dữ liệu trong Postman (Kết quả thành công)
+    ![alt text](image-4.png)
+
+Tạo bộ sưu tập dữ liệu để quản lý nhiều yêu cầu và biến (Kết quả thành công)
+    ![alt text](image-5.png)
+
+Xác minh tính hợp lệ của JSON (Kết quả thành công)
+    ![alt text](image-6.png)
+
+3. Kiểm thử API nâng cao:
+Tìm hiểu về các phương thức xác thực và ủy quyền khác nhau được sử dụng trong API (Kết quả thành công)
+    ![alt text](image-7.png)
+
+Viết các yêu cầu HTTP bao gồm thông tin xác thực và ủy quyền (Kết quả thành công)
+    ![alt text](image-8.png)
+
+Sử dụng Postman để kiểm tra hiệu suất API bằng cách đo thời gian phản hồi (Kết quả trả về Fail)
+    ![alt text](image-9.png)
+
+
 
